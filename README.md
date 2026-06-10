@@ -14,7 +14,7 @@
 
 ## Projects / 專案
 
-### 🌱 [Agentic AI for Autonomous ESG Report Generation](https://github.com/ntpu-ai-esg-demo/aaiesger) *(Collaborative)*
+### 🌱 [Agentic AI ESG Report Generation System](https://github.com/ifitntpu/aaiesger) *(Collaborative)*
 `LLM` `RAG` `Fine-tuning` `Streamlit` `Python`
 
 **Core contributor** on an end-to-end AI platform that autonomously generates ESG reports.
@@ -26,7 +26,7 @@
 
 ---
 
-### 🏢 [IFRS S1/S2 Compliant ESG Report Generation System](https://github.com/ntpu-ai-esg-demo/esg-report-system-NTPU-AI-competition-demo) *(Collaborative)*
+### 🏢 [Multi-Agent ESG Report Generation & Compliance Verification System](https://github.com/ntpu-ai-esg-demo/esg-report-system-NTPU-AI-competition-demo) *(Collaborative)*
 `FastAPI` `React` `Claude API` `Gemini` `RAG` `Docker` `Python`
 
 **Core contributor** on an automated ESG sustainability reporting system compliant with IFRS S1/S2 standards, developed with the NTPU AI team.
