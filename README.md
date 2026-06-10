@@ -14,27 +14,27 @@
 
 ## Projects / 專案
 
-### 🌱 [Agentic AI for Autonomous ESG Report Generation](https://github.com/TingChi-WANG/aaiesger)
+### 🌱 [Agentic AI for Autonomous ESG Report Generation](https://github.com/ntpu-ai-esg-demo/aaiesger) *(Collaborative)*
 `LLM` `RAG` `Fine-tuning` `Streamlit` `Python`
 
-An end-to-end AI platform that autonomously generates ESG reports.
+**Core contributor** on an end-to-end AI platform that autonomously generates ESG reports.
 - Built a **RAG pipeline** to retrieve data from internal databases and external websites
 - **Fine-tuned LLMs** (LLaMA 3.2, Mistral v0.3, Phi 3.5) on domain-specific ESG datasets; evaluated with LLM-as-Judge and loss curve analysis
 - Delivered a **full-stack product** with Streamlit UI, backend DB, and AI agents integrated end-to-end
 
-> 全端 ESG 報告自動生成 AI 平台，整合 RAG 檢索、LLM 微調與 Streamlit 互動介面
+> 全端 ESG 報告自動生成 AI 平台，整合 RAG 檢索、LLM 微調與 Streamlit 互動介面（協作專案）
 
 ---
 
-### 🏆 [ESG Report System — NTPU AI Competition Demo](https://github.com/ntpu-ai-esg-demo/esg-report-system-NTPU-AI-competition-demo) *(Collaborative)*
+### 🏢 [IFRS S1/S2 Compliant ESG Report Generation System](https://github.com/ntpu-ai-esg-demo/esg-report-system-NTPU-AI-competition-demo) *(Collaborative)*
 `FastAPI` `React` `Claude API` `Gemini` `RAG` `Docker` `Python`
 
-**Core contributor** on a competition-entry system for automated IFRS S1/S2-compliant ESG report generation, built collaboratively with the NTPU AI team.
+**Core contributor** on an automated ESG sustainability reporting system compliant with IFRS S1/S2 standards, developed with the NTPU AI team.
 - Designed a **three-agent pipeline**: data retrieval from PDFs & Taiwan Stock Exchange CSVs → LLM-based paragraph generation → rule-based compliance verification
-- Implemented **style-matching generation** using Gemini embeddings for semantic template retrieval and Claude (Sonnet) for 250–350 word Chinese paragraph synthesis
+- Implemented **style-matching generation** using Gemini embeddings for semantic template retrieval and Claude (Sonnet) for Chinese paragraph synthesis
 - Built compliance badge scoring, inline re-verification, and PDF export on a React + FastAPI full-stack architecture
 
-> 以競賽為目標開發的 IFRS S1/S2 合規 ESG 報告自動生成系統（協作專案）。三段式 AI Pipeline：資料擷取 → 風格匹配生成 → 法規合規驗證，前後端整合 React + FastAPI。
+> 符合 IFRS S1/S2 標準的 ESG 永續報告書自動生成系統（協作專案）。三段式 AI Pipeline：結構化資料擷取 → 風格匹配段落生成 → 合規驗證，前後端整合 React + FastAPI。
 
 ---
 
