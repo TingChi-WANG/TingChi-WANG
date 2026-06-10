@@ -26,6 +26,18 @@ An end-to-end AI platform that autonomously generates ESG reports.
 
 ---
 
+### 🏆 [ESG Report System — NTPU AI Competition Demo](https://github.com/ntpu-ai-esg-demo/esg-report-system-NTPU-AI-competition-demo) *(Collaborative)*
+`FastAPI` `React` `Claude API` `Gemini` `RAG` `Docker` `Python`
+
+**Core contributor** on a competition-entry system for automated IFRS S1/S2-compliant ESG report generation, built collaboratively with the NTPU AI team.
+- Designed a **three-agent pipeline**: data retrieval from PDFs & Taiwan Stock Exchange CSVs → LLM-based paragraph generation → rule-based compliance verification
+- Implemented **style-matching generation** using Gemini embeddings for semantic template retrieval and Claude (Sonnet) for 250–350 word Chinese paragraph synthesis
+- Built compliance badge scoring, inline re-verification, and PDF export on a React + FastAPI full-stack architecture
+
+> 以競賽為目標開發的 IFRS S1/S2 合規 ESG 報告自動生成系統（協作專案）。三段式 AI Pipeline：資料擷取 → 風格匹配生成 → 法規合規驗證，前後端整合 React + FastAPI。
+
+---
+
 ### 🎵 [Music Clustering for Spotify Playlist Generation](https://github.com/TingChi-WANG/Music-Clustering-for-Spotify-Playlist-Generation)
 `K-Means` `PCA` `Spotify API` `Python` `Jupyter`
 
