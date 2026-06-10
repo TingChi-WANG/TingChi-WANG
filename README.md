@@ -1,16 +1,13 @@
-# Hi, I'm TingChi Wang 👋 / 嗨，我是王婷琪 👋
+# Hi, I'm Tiffany Wang 👋
 
-> Data & AI enthusiast from Taiwan 🇹🇼 | Passionate about NLP, ML, and building end-to-end AI products
->
-> 來自台灣的資料科學 & AI 愛好者 | 專注於自然語言處理、機器學習與全端 AI 產品開發
+> from Taiwan 🇹🇼 | Passionate about building end-to-end AI products to solve business problems.
 
 ---
 
 ## About Me / 關於我
 
-- 🎓 Background in **Information Management** — bridging business and technology
-- 🤖 Interested in **LLMs, RAG, Agentic AI**, and data-driven applications
-- 📊 Experience spanning **NLP research, ML pipelines, data visualization, and full-stack integration**
+- 🎓 Background in **Accounting** and [Intelligent Financial Innovation Technology Lab (IFIT Lab), NTPU](https://www.aifitesg.org/) — bridging business and technology
+- 🤖 Interested in **RAG, Agentic AI**, and **data-driven applications**
 - 🌐 Personal site: [tingchi-wang.github.io](https://tingchi-wang.github.io)
 
 ---
@@ -104,8 +101,8 @@ Interactive dashboard analyzing shifts in consumer behavior during the pandemic.
 
 ## Tech Stack / 技術棧
 
-**Languages:** Python · SQL · JavaScript  
-**AI / ML:** LLM Fine-tuning · RAG · TensorFlow · scikit-learn · K-Means · PCA  
+**Languages:** Python
+**AI / ML:** LLM Fine-tuning · RAG · TensorFlow · scikit-learn  
 **Data:** pandas · matplotlib · seaborn · Power BI  
 **Cloud & Tools:** AWS · Streamlit · Web Crawling · Git  
 
